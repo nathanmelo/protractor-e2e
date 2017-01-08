@@ -10,5 +10,7 @@ webdriver-manager update
 Important links:
 
 Protractor's official documentation [http://www.protractortest.org/#/]
+
 Add more information to the reporter output [https://www.npmjs.com/package/jasmine-spec-reporter]
+
 Generate an useful report for web apps [https://www.npmjs.com/package/protractor-jasmine2-html-reporter]
